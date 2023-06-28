@@ -1,0 +1,346 @@
+[
+    
+    {
+        "name": "heartscard",
+        "data": [
+            {
+                "id": 1,
+                "uniCode": "U+1F0A1",
+                "htmlCode": "127137",
+                "url": "card-images/HeartsCard/ACE_OF_HEARTS.png"
+            },
+            {
+                "id": 2,
+                "uniCode": "U+1F0A2",
+                "htmlCode": "(127138)",
+                "url": "card-images/HeartsCard/TWO_OF_HEARTS.png"
+            },
+            {
+                " id": 3,
+                "uniCode": "U+1F0A2",
+                "htmlCode": "(127138)",
+                "url": "card-images/HeartsCard/THREE_OF_HEARTS.png"
+            },
+            {
+                " id": 4,
+                "uniCode": "U+1F0A2",
+                "htmlCode": "(127138)",
+                "url": "card-images/HeartsCard/FOUR_OF_HEARTS.png"
+            },
+            {
+                " id": 5,
+                "uniCode": "U+1F0A2",
+                "htmlCode": "(127138)",
+                "url": "card-images/HeartsCard/FIVE_OF_HEARTS.png"
+            },
+            {
+                " id": 6,
+                "uniCode": "U+1F0A2",
+                "htmlCode": "(127138)",
+                "url": "card-images/HeartsCard/SIX_OF_HEARTS.png"
+            },
+            {
+                " id": 7,
+                "uniCode": "U+1F0A2",
+                "htmlCode": "(127138)",
+                "url": "card-images/HeartsCard/SEVEN_OF_HEARTS.png"
+            },
+            {
+                "id": 8,
+                "uniCode": "U+1F0A2",
+                "htmlCode": "(127138)",
+                "url": "card-images/HeartsCard/EIGHT_OF_HEARTS.png"
+            },
+            {
+                "id": 9,
+                "uniCode": "U+1F0A2",
+                "htmlCode": "(127138)",
+                "url": "card-images/HeartsCard/NINE_OF_HEARTS.png"
+            },
+            {
+                "id": 10,
+                "uniCode": "U+1F0A2",
+                "htmlCode": "(127138)",
+                "url": "card-images/HeartsCard/TEN_OF_HEARTS.png"
+            },
+            {
+                "id": 11,
+                "uniCode": "U+1F0A2",
+                "htmlCode": "(127138)",
+                "url": "card-images/HeartsCard/JACK_OF_HEARTS.png"
+            },
+            {
+                "id": 12,
+                "uniCode": "U+1F0A2",
+                "htmlCode": "(127138)",
+                "url": "card-images/HeartsCard/QUEEN_OF_HEARTS.png"
+            },
+            {
+                "id": 13,
+                "uniCode": "U+1F0A2",
+                "htmlCode": "(127138)",
+                "url": "card-images/HeartsCard/KING_OF_HEARTS.png"
+            }
+        ]
+    },
+    {
+        "name": "clubscard",
+        "data": [
+            {
+                "id": 1,
+                "uniCode": "U+1F0A1",
+                "htmlCode": "127137",
+                "url": "card-images/ClubsCard/ACE_OF_CLUBS.png"
+            },
+            {
+                "id": 2,
+                "uniCode": "U+1F0A2",
+                "htmlCode": "(127138)",
+                "url": "card-images/ClubsCard/TWO_OF_CLUBS.png"
+            },
+            {
+                "id": 3,
+                "uniCode": "U+1F0A2",
+                "htmlCode": "(127138)",
+                "url": "card-images/ClubsCard/THREE_OF_CLUBS.png"
+            },
+            {
+                "id": 4,
+                "uniCode": "U+1F0A2",
+                "htmlCode": "(127138)",
+                "url": "card-images/ClubsCard/FOUR_OF_CLUBS.png"
+            },
+            {
+                "id": 5,
+                "uniCode": "U+1F0A2",
+                "htmlCode": "(127138)",
+                "url": "card-images/ClubsCard/FIVE_OF_CLUBS.png"
+            },
+            {
+                "id": 6,
+                "uniCode": "U+1F0A2",
+                "htmlCode": "(127138)",
+                "url": "card-images/ClubsCard/SIX_OF_CLUBS.png"
+            },
+            {
+                "id": 7,
+                "uniCode": "U+1F0A2",
+                "htmlCode": "(127138)",
+                "url": "card-images/ClubsCard/SEVEN_OF_CLUBS.png"
+            },
+            {
+                "id": 8,
+                "uniCode": "U+1F0A2",
+                "htmlCode": "(127138)",
+                "url": "card-images/ClubsCard/EIGHT_OF_CLUBS.png"
+            },
+            {
+                "id": 9,
+                "uniCode": "U+1F0A2",
+                "htmlCode": "(127138)",
+                "url": "card-images/ClubsCard/NINE_OF_CLUBS.png"
+            },
+            {
+                "id": 10,
+                "uniCode": "U+1F0A2",
+                "htmlCode": "(127138)",
+                "url": "card-images/ClubsCard/TEN_OF_CLUBS.png"
+            },
+            {
+                "id": 11,
+                "uniCode": "U+1F0A2",
+                "htmlCode": "(127138)",
+                "url": "card-images/ClubsCard/JACK_OF_CLUBS.png"
+            },
+            {
+                "id": 12,
+                "uniCode": "U+1F0A2",
+                "htmlCode": "(127138)",
+                "url": "card-images/ClubsCard/QUEEN_OF_CLUBS.png"
+            },
+            {
+                "id": 13,
+                "uniCode": "U+1F0A2",
+                "htmlCode": "(127138)",
+                "url": "card-images/ClubsCard/KING_OF_CLUBS.png"
+            }
+        ]
+    },
+    {
+        "name": "joker",
+        "data": [
+            {
+                "id": 1,
+                "uniCode": "U+1F0A1",
+                "htmlCode": "127137",
+                "url": "card-images/JokerCard/Joker.png"
+            }
+        ]
+    },
+    {
+        "name": "diamondscard",
+        "data": [
+            {
+                "id": 1,
+                "uniCode": "U+1F0A1",
+                "htmlCode": "127137",
+                "url": "card-images/DiamondsCard/ACE_OF_DIAMONDS.png"
+            },
+            {
+                "id": 2,
+                "uniCode": "U+1F0A2",
+                "htmlCode": "(127138)",
+                "url": "card-images/DiamondsCard/TWO_OF_DIAMONDS.png"
+            },
+            {
+                "id": 3,
+                "uniCode": "U+1F0A2",
+                "htmlCode": "(127138)",
+                "url": "card-images/DiamondsCard/THREE_OF_DIAMONDS.png"
+            },
+            {
+                "id": 4,
+                "uniCode": "U+1F0A2",
+                "htmlCode": "(127138)",
+                "url": "card-images/DiamondsCard/FOUR_OF_DIAMONDS.png"
+            },
+            {
+                "id": 5,
+                "uniCode": "U+1F0A2",
+                "htmlCode": "(127138)",
+                "url": "card-images/DiamondsCard/FIVE_OF_DIAMONDS.png"
+            },
+            {
+                "id": 6,
+                "uniCode": "U+1F0A2",
+                "htmlCode": "(127138)",
+                "url": "card-images/DiamondsCard/SIX_OF_DIAMONDS.png"
+            },
+            {
+                "id": 7,
+                "uniCode": "U+1F0A2",
+                "htmlCode": "(127138)",
+                "url": "card-images/DiamondsCard/SEVEN_OF_DIAMONDS.png"
+            },
+            {
+                "id": 8,
+                "uniCode": "U+1F0A2",
+                "htmlCode": "(127138)",
+                "url": "card-images/DiamondsCard/EIGHT_OF_DIAMONDS.png"
+            },
+            {
+                "id": 9,
+                "uniCode": "U+1F0A2",
+                "htmlCode": "(127138)",
+                "url": "card-images/DiamondsCard/NINE_OF_DIAMONDS.png"
+            },
+            {
+                "id": 10,
+                "uniCode": "U+1F0A2",
+                "htmlCode": "(127138)",
+                "url": "card-images/DiamondsCard/TEN_OF_DIAMONDS.png"
+            },
+            {
+                "id": 11,
+                "uniCode": "U+1F0A2",
+                "htmlCode": "(127138)",
+                "url": "card-images/DiamondsCard/JACK_OF_DIAMONDS.png"
+            },
+            {
+                "id": 12,
+                "uniCode": "U+1F0A2",
+                "htmlCode": "(127138)",
+                "url": "card-images/DiamondsCard/QUEEN_OF_DIAMONDS.png"
+            },
+            {
+                "id": 13,
+                "uniCode": "U+1F0A2",
+                "htmlCode": "(127138)",
+                "url": "card-images/DiamondsCard/KING_OF_DIAMONDS.png"
+            }
+        ]
+    },
+    {
+        "name": "spadescard",
+        "data": [
+            {
+                "id": 1,
+                "uniCode": "U+1F0A1",
+                "htmlCode": "127137",
+                "url": "card-images/SpadesCard/ACE_OF_SPADES.png"
+            },
+            {
+                "id": 2,
+                "uniCode": "U+1F0A2",
+                "htmlCode": "(127138)",
+                "url": "card-images/SpadesCard/TWO_OF_SPADES.png"
+            },
+            {
+                "id": 3,
+                "uniCode": "U+1F0A2",
+                "htmlCode": "(127138)",
+                "url": "card-images/SpadesCard/THREE_OF_SPADES.png"
+            },
+            {
+                "id": 4,
+                "uniCode": "U+1F0A2",
+                "htmlCode": "(127138)",
+                "url": "card-images/SpadesCard/FOUR_OF_SPADES.png"
+            },
+            {
+                "id": 5,
+                "uniCode": "U+1F0A2",
+                "htmlCode": "(127138)",
+                "url": "card-images/SpadesCard/FIVE_OF_SPADES.png"
+            },
+            {
+                "id": 6,
+                "uniCode": "U+1F0A2",
+                "htmlCode": "(127138)",
+                "url": "card-images/SpadesCard/SIX_OF_SPADES.png"
+            },
+            {
+                "id": 7,
+                "uniCode": "U+1F0A2",
+                "htmlCode": "(127138)",
+                "url": "card-images/SpadesCard/SEVEN_OF_SPADES.png"
+            },
+            {
+                "id": 8,
+                "uniCode": "U+1F0A2",
+                "htmlCode": "(127138)",
+                "url": "card-images/SpadesCard/EIGHT_OF_SPADES.png"
+            },
+            {
+                "id": 9,
+                "uniCode": "U+1F0A2",
+                "htmlCode": "(127138)",
+                "url": "card-images/SpadesCard/NINE_OF_SPADES.png"
+            },
+            {
+                "id": 10,
+                "uniCode": "U+1F0A2",
+                "htmlCode": "(127138)",
+                "url": "card-images/SpadesCard/TEN_OF_SPADES.png"
+            },
+            {
+                "id": 11,
+                "uniCode": "U+1F0A2",
+                "htmlCode": "(127138)",
+                "url": "card-images/SpadesCard/JACK_OF_SPADES.png"
+            },
+            {
+                "id": 12,
+                "uniCode": "U+1F0A2",
+                "htmlCode": "(127138)",
+                "url": "card-images/SpadesCard/QUEEN_OF_SPADES.png"
+            },
+            {
+                "id": 13,
+                "uniCode": "U+1F0A2",
+                "htmlCode": "(127138)",
+                "url": "card-images/SpadesCard/KING_OF_SPADES.png"
+            }
+        ]
+    }
+]

@@ -1,0 +1,77 @@
+.firstgrid{
+    background: linear-gradient(180deg,rgba(254,163,64,0) 25.44%,rgba(12,5,70,0.5) 100%),#31996A;
+    
+}
+.winpricecontainer{
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: baseline;
+  background-color:#230332;
+  /* background-image: url("../../assets/images/winbannerback.jpg"); */
+ 
+}
+.winnerback{
+  /* background-image: url("../../assets/images/stars.png"); */
+  background-size:cover;
+  animation: cardss 3s linear infinite;
+  background: linear-gradient(180deg,rgba(254,163,64,0) 25.44%,rgba(12,5,70,0.5) 100%),#31996A;
+
+  /* background-image: url("https://pngtree.com/freepng/colorful-birthday-confetti-with-star_4959838.html"); */
+}
+/* .grad{
+  background-image:"linear-gradient( #31996A, #31996A)";
+} */
+
+.cards{
+  margin-right: 50px;
+}
+.MuiChip-icon{
+  background-color: #31996A;
+
+}
+@keyframes rotatee {
+  from{color: black;}
+
+    to {color: red; font-weight: bold;}
+  
+}
+@keyframes textee {
+  from{color: rgb(255, 231, 93);}
+
+    to {color: goldenrod; font-weight: bold;}
+  
+}
+@keyframes cardss {
+  from{top: 0;right: 0;width: 0;}
+
+    to {top: 10; right: 10;width: "100%";}
+  
+}
+.toto {
+    animation: rotatee 1s linear infinite;
+  display:inline-block;
+}
+.bigwin{
+  animation: textee 1s linear infinite;
+}
+.cardanimation1 {
+  animation: cardss 3s linear infinite;
+  transition: all 10s ease-in-out;
+  transition-delay: 10s;
+}
+.cardanimation2 {
+  animation: cardss 3s linear infinite;
+  transition: all 4s ease-in-out;
+  transition-delay: 20s;
+}
+.cardanimation3 {
+  animation: cardss 3s linear infinite;
+  transition: all 4s ease-in-out;
+  transition-delay: 30s;
+}
+.cardanimation4 {
+  animation: cardss 3s linear infinite;
+  transition: all 1s ease-in-out;
+  /* transition-delay: 10s; */
+}

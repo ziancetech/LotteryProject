@@ -1,0 +1,18 @@
+.slick-slider {
+    /* margin:0 -15px; */
+    padding: 2%;
+    /* background-color: aqua; */
+}
+.slick-slide {
+    /* border: 1; */
+    /* background-color: blue; */
+    /* padding:10px; */
+    /* background-color:red; */
+    /* z-index: 0; */
+    /* text-align:center; */
+    /* margin-right:5px; */
+    /* margin-left:15px; */
+}
+.slick-list{
+    /* background-color: red; */
+}

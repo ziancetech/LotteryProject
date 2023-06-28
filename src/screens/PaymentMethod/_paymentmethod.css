@@ -1,0 +1,42 @@
+.cardheader{
+}
+.paymentmethodpage{
+    width: 100% !important;
+    height: 100vh !important;
+    display: flex;
+    justify-content: center !important;
+    align-items: center;
+}
+.maincard{
+    display: flex;
+    align-items: baseline;
+    justify-content: space-evenly;
+    align-content: stretch;
+    flex-wrap: wrap !important;
+    border-radius: 5% !important;
+     box-shadow: "15"!important;
+}
+.expirydate{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    align-content: stretch;
+    align-items: baseline;
+    justify-content: flex-start
+}
+.cardlogo{
+   border-radius: 5%;
+   width: 100% !important;
+}
+.Cardholdername{
+    /* box-shadow: 2px 2px 2px rgb(0, 0, 0); */
+}
+.cardnumber{
+    /* box-shadow: 2px 2px 2px rgb(0, 0, 0); */
+}
+.Continuebutton{
+    background: linear-gradient(180deg,rgba(254,163,64,0) 25.44%,rgba(12,5,70,0.5) 100%),#31996A !important;
+}
+.error{
+    color: red;
+  }

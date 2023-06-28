@@ -1,0 +1,28 @@
+.tablerow:hover{
+    border: 1px solid red;
+}
+.changeCard{
+    background-color: teal !important;
+    font-variant: small-caps;
+    font-weight: bold;
+}
+.scroll{
+    overflow: auto;
+    scroll-behavior: smooth;
+}
+.scroll::-webkit-scrollbar {
+    /* background:#31996A;  */
+  border-radius: 10px;
+  scroll-behavior: smooth;
+  }
+  .scroll::-webkit-scrollbar-thumb {
+    background: #31996A;;
+    width: 10px;
+    border-radius: 10px;
+    scroll-behavior: smooth;
+  }
+  .scroll::-webkit-scrollbar-track {
+    box-shadow: inset 0 0 5px grey;
+    border-radius: 10px;
+    scroll-behavior: smooth;
+  }

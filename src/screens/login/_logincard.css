@@ -1,0 +1,74 @@
+.container {
+  align-content: center;
+  background-color: rgb(0 0 0 / 9%);
+  /* width: 100%; */
+  /* min-width: 196vh; */
+  height: 100vh;
+  /* background-image: url("../../assets/images/wallpaperflare.com_wallpaper.jpg");   */
+  background: linear-gradient(180deg,rgba(254,163,64,0) 25.44%,rgba(12,5,70,0.5) 100%),#31996A;
+  background-repeat: no-repeat;
+  background-size: cover;
+  /* z-index: 1; */
+}
+.loginbox {
+  /* background-image: url("../../assets/images/header-background.avif"); */
+  background-repeat: no-repeat;
+  background-size: cover;
+  border-radius: 20px !important;
+  box-shadow: 5px 5px 40px rgb(109, 100, 100) !important;
+  width: 100%;
+  height: 100%;
+  /* margin-left: 15%; */
+  /* z-index: 2000; */
+}
+.registrationbox{
+  background-image: none;
+  margin-left: 9%;
+  height: 25px;
+  position: absolute;
+  top: 62%;
+  /* border-radius: 0px 0px 40px 40px; */
+  display: flex;
+  justify-content: center;
+  z-index: 0;
+  transition: all ease-in-out 1s;
+}
+.registrationbox:hover{
+  height: 65px;
+  z-index: 0;
+  background-image: url("../../assets/images/header-background.avif");
+}
+.Cardheader {
+  /* border-radius: 20px; */
+  text-align: center;
+  /* border-bottom: 1px solid black; */
+    /* font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif!important; */
+   /* font-style: italic; */
+   /* font-family: "apple-system,BlinkMacSystemFont,segoe ui,Roboto,Oxygen-Sans,Ubuntu,Cantarell,helvetica neue,sans-ser" */
+}
+.Maincard {
+  background-color: #000000;
+}
+.signin {
+  background: linear-gradient(180deg,rgba(254,163,64,0) 25.44%,rgba(12,5,70,0.5) 100%),#31996A !important;
+  /* font-family: Georgia, serif !important; */
+}
+.forgotpassword {
+  color: #000000 !important ;
+  /* margin-left: 45% !important; */
+}
+.registrationbtn{
+  position: absolute;
+  color: transparent !important;
+  transition: 2s ease-in-out !important;
+}
+.registrationbox:hover .registrationbtn{
+  color: #050505 !important;
+}
+.boxfooter {
+  display: flex;
+  justify-content: space-between;
+}
+.error{
+  color: #D85353;
+}

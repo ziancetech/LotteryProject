@@ -1,0 +1,23 @@
+.pagenotfoundcontainer{
+    background-color: rgb(115 185 226);
+}
+.heading{
+    position:absolute;
+    top :15%;
+    scale: 5;
+    color: rgb(197, 42, 42);
+    z-index: 1;
+}
+.content{
+    position: absolute;
+    top:80%;
+    left: 20%;
+    scale: 1.7;
+    z-index: 1;
+    color: white;
+}
+.gotohomebtn{
+    z-index: 1;
+    color: gray;
+    background-color: gray;
+}
